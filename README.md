@@ -7,6 +7,7 @@ This is a code to create a HTTP REST Server on Node-MCU
 * DNS masking of IP assigned by the AP
 * Controlling GPIO Through REST APIs
 * Reading ADC Value through REST APIs
+* simple
 
 /*....................................................
 * Author: Sanyam Arya
