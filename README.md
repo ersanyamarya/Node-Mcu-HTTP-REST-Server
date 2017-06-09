@@ -12,8 +12,6 @@
  >Controlling GPIO Through REST APIs
  >
  >Reading ADC Value through REST APIs
- >
- >simple
 
 * Author: Sanyam Arya
 * ersanyamarya@gmail.com
